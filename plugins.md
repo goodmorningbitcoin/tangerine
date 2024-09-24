@@ -16,8 +16,8 @@ This document provides an overview of the plugins used across the Tangerine Rust
 ### Events & Challenges
 
 - [RaidableBases.cs](https://lone.design/product/raidable-bases-rust-plugin/): Adds bases to the game that players can raid, either as pre-built locations or admin-spawned events.
-- ClaimRewards.cs: Handles the /claim command for players to claim blood or other rewards based on performance in the wipe.
-- DepositBox.cs: Manages the deposit of hash (represented as paper) into specific boxes for rewards and events like Hodl Havoc.
+- [ClaimPlayerRewards.cs](https://github.com/goodmorningbitcoin/Claim-Player-Rewards): Handles the /claim command for players to claim blood or other rewards based on performance in the wipe.
+- [DepositBox.cs](https://github.com/goodmorningbitcoin/DepositBox): Manages the deposit of hash (represented as paper) into specific boxes for rewards and events like Hodl Havoc.
 - [Sputnik.cs](https://lone.design/product/sputnik/): A plugin for spawning satellite-like objects in-game, offering high-value loot guarded by defenses.
 
 ### Utility Plugins
