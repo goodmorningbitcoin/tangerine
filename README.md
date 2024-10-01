@@ -1,14 +1,14 @@
 # Tangerine Rust Server
 
-Welcome to **Tangerine**, a Bitcoin-focused Rust server. Join us for strategic gameplay, community-driven events, and Bitcoin rewards. Whether you're here to raid or trade, Tangerine offers a unique survival experience enhanced by Bitcoin rewards.
+Tangerine is not just another Rust server; it's a unique platform designed to promote Bitcoin education through immersive and enjoyable gameplay. By seamlessly integrating Bitcoin concepts into the Rust mechanics, Tangerine offers players a hands-on approach to understanding Bitcoin while engaging in a competitive and survival-oriented environment. The server strikes a balance between education and entertainment, making complex Bitcoin concepts accessible and engaging.
 
 ## Key Features
-- **Bitcoin Rewards**: Earn sats (satoshis) by generating or finding hash (represented by in-game items) and competing for rewards.
-- **Base Protection**: Full protection on and offline except for twig structures, which are raidable unless upgraded.
-- **Hodl Havoc Event**: The monthly event starting the last Friday before wipe, where base protection ends, and players compete to turn in hash at the community center.
+- **Bitcoin Mining**: Hash is generated through your own Bitcoin mining rig. Deploy it and find the resources to upgrade your PSU and hashboards!
+- **Turn in your Hash**: Earn sats (satoshis) from your mined hash by turning them in at the community center at Outpost
+- **PvE Focus**: Roam freely to collect resources with PvP zones at monuments for higher end rewards
 - **Sputnik**: A competitive, timed event where players race to compete against attack choppers, NPCs, turrets and of course other players for resources from fallen space fragments.
-- **Raidable Bases**: Participate in Raidable Bases events for exciting PvP and rewards.
-- **Community-Driven**: Sponsored by Orangemart, Tangerine’s events and rewards reflect our community’s Bitcoin roots.
+- **Raidable Bases**: Participate in Raidable Bases events for exciting PvP and finding stored mined hash!
+- **Redeem Blood**: The blood asset is the main asset on our server. Buy it with Bitcoin using /buyblood or trade it for real Bitcoin using /sendblood!
 
 ## Server Details and Logs
 For the most up-to-date server settings, map details, event information, logs, and changelogs, refer to the current block in the [Block History](blockhistory/). Each wipe is tracked there, providing a detailed log of features and changes.
