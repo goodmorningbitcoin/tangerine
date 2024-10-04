@@ -8,10 +8,10 @@ This document provides an overview of the plugins used across the Tangerine Rust
 
 - [AlphaLoot.cs](https://chaoscode.io/resources/alphaloot.13/): Modifies loot tables and spawn rates, allowing for customized loot distribution in crates and barrels.
 - Bitcoin.cs: Adds a Bitcoin reward system, tying in-game mechanics to Bitcoin mining and hash rewards.
-- [DeathNotes.cs](https://umod.org/plugins/death-notes): Provides kill notifications in the chat, showing when players or NPCs are killed and by whom.
+- [DynamicPVP.cs](https://umod.org/plugins/dynamic-pvp): Handles our dynamicPVP zones at monuments
 - [RemoverTool.cs](https://umod.org/plugins/remover-tool): Allows players or admins to remove placed structures or objects for a fee or free.
-- [RaidProtection.cs](https://codefling.com/plugins/raid-protection): Handles base protection mechanics, limiting when raiding is allowed.
 - [SkinBox.cs](https://chaoscode.io/resources/skinbox.17/): Provides players with access to skins for their items via the SkinBox plugin.
+- [TruePVE.cs](https://umod.org/plugins/true-pve): Enables PvE environment on server.
 
 ### Events & Challenges
 
@@ -22,7 +22,6 @@ This document provides an overview of the plugins used across the Tangerine Rust
 
 ### Utility Plugins
 
-- [AnyMapVendor.cs](https://codefling.com/plugins/any-map-vendor): Adds a traveling vendor to any map, even without a looping roadway.
 - [BiPlane.cs](https://lone.design/product/biplane-rust-plugin/): Allows the creation and deployment of simple in-game aircraft for enhanced mobility.
 - [CarRadio.cs](https://umod.org/plugins/car-radio): Adds functional car radios, allowing players to play music while driving their vehicles.
 - [CopyPaste.cs](https://umod.org/plugins/copy-paste): Enables admins to copy and paste structures in the game world, useful for building event arenas or saving player builds.
@@ -32,6 +31,8 @@ This document provides an overview of the plugins used across the Tangerine Rust
 - ItemCountTracker.cs: Allows for tracking of paper items on the server in player control.
 - [MarketplaceUi.cs](https://codefling.com/plugins/marketplace): A user interface for the in-game marketplace, making it easier for players to buy and sell items.
 - [MonumentAddons.cs](https://umod.org/plugins/monument-addons): Enhances or modifies the standard monuments with new features or interactions.
+- Orangemart.cs: Handles Bitcoin payment integration
+- [RadioStationManager.cs](https://umod.org/plugins/radio-station-manager): Manages in-game radio stations.
 - [SignArtist.cs](https://umod.org/plugins/sign-artist): Allows players to upload custom images to in-game signs, useful for personalizing bases.
 
 ### Server Information
@@ -50,7 +51,6 @@ This document provides an overview of the plugins used across the Tangerine Rust
 - [AdminRadar.cs](https://umod.org/plugins/admin-radar): An admin tool to track players and items on the map for rule enforcement.
 - [InventoryViewer.cs](https://umod.org/plugins/inventory-viewer): Allows admins to view and manage players’ inventories for moderation and rule enforcement.
 - [NoGiveNotices.cs](https://umod.org/plugins/no-give-notices): Suppresses notifications in the chat when players are given items.
-- [NoGreen.cs](https://umod.org/plugins/no-green): Prevents admins from showing as green text in the chat.
 - [PermissionsManager.cs](https://codefling.com/plugins/permissions-manager): Allows admins to easily manage player permissions and access.
 - [PlayerAdministration.cs](https://umod.org/plugins/player-administration): A suite of tools for managing player accounts, bans, and other admin-related tasks.
 - [Vanish.cs](https://umod.org/plugins/vanish): Allows admins to vanish from player view for covert moderation.
