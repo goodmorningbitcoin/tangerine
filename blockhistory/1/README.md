@@ -7,10 +7,6 @@
 - **Sputnik**: Satellite fragments will crash-land across the map, guarded by helicopters, NPCs, and turrets. Players must use Space Cards to access high-value loot.
 - **New Mining Event**: Special mining events will periodically take place, allowing players to compete for additional hash rewards.
 
-### Records
-- **Most Hash Turned In**: TBD (to be updated at the end of Block 1).
-- **Top Raider**: TBD (to be updated based on the /rb ladder at the end of Block 1).
-
 ### Server Environment Variables
 - **Map Size**: 4500, procedurally generated.
 - **Map Seed**: 1951016938.
@@ -39,6 +35,8 @@
 
 ## Changelog for Block 1
 - **10/04/2024**: Block 1 begins.
+- **10/08/2024**: Memory error caused miner error, daily restart implemented, claim reward given to authed players
+- **10/09/2024**: Raidable Bases relaunched
 
 ## Logs and Additional Information
 - [Bitcoin Miner Log](./bitcoin.json)
