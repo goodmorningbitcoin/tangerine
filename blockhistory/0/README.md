@@ -6,10 +6,6 @@
 - **SkinBox Access**: Players can use the **SkinBox** plugin to customize their items with a selection of skins.
 - **Sputnik**: Satellite fragments crash-land across the map, guarded by helicopters, NPCs, and turrets. Players must use special Space Cards to access high-value loot.
 
-## Records
-- **Most Hash Turned In**: TBD (to be updated at the end of Block 0).
-- **Top Raider**: TBD (to be updated based on the `/rb ladder` at the end of Block 0).
-
 ## Server Environment Variables
 - **Map Size**: 3000, procedurally generated.
 - **Map Seed**: 1163722885.
@@ -54,10 +50,7 @@
 - **09/05/2024**: Block 0 begins.
 
 ## Logs and Additional Information
-- [Bitcoin Miner Log](./bitcoin.json)
-- [Hash Deposits Log](./depositboxlog.json)
-- [Claim Rewards](./claimrewards.json) _(Not applicable in Block 0)_
-- [Claimed Rewards](./claimedrewards.json) _(Not applicable in Block 0)_
+- [Hash Deposits Log](./DepositBoxLog.json)
 
 ## Plugins Used in Block 0
 - **AdminDeepCover.cs**: Allows admins to spectate anonymously.
